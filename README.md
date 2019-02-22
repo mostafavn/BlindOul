@@ -12,7 +12,9 @@
  
 # How To Install:
 git clone https://github.com/mostafa-vn/BlindOul.git
+
 cd BlindOul
+
 python2 blindoul.py
 ____________________________________________________________________
 contact us:
