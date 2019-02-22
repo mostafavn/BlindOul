@@ -1,11 +1,16 @@
 ![BlindOul Screen](https://i.ibb.co/9vNRfgr/Screenshot-from-2019-02-22-16-15-57.png)
-this
-# Blind Oul
- can
 
-
-
-
+# Blind Oul :
+  [1] Get Your Public IP                  
+  [2] Get WebSite IP                      
+  [3] Get Whois From Website                                      
+  [4] Admin Finder                         
+  [5] Port Scanner                         
+  [6] Get Website DNS                            
+  [7] Website DetectTech
+  [8] DDOS Attack
+ 
+# How To Install:
 
 ____________________________________________________________________
 contact us:
