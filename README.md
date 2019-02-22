@@ -1,6 +1,7 @@
-![DM Script Screen](https://i.ibb.co/r6ww3m6/Screenshot-from-2019-02-21-23-36-40.png)
-
-# BlindOul
+![BlindOul Screen](https://i.ibb.co/9vNRfgr/Screenshot-from-2019-02-22-16-15-57.png)
+this
+# Blind Oul
+ can
 
 
 
