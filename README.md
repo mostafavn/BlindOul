@@ -11,8 +11,9 @@
   [8] DDOS Attack
  
 # How To Install:
-git clone https://github.com/mostafa-vn/BlindOul.git && cd BlindOul && chmod +x BlindOul && sudo mv dm 
-
+git clone https://github.com/mostafa-vn/BlindOul.git
+cd BlindOul
+python2 blindoul.py
 ____________________________________________________________________
 contact us:
 
