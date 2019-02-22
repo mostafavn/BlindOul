@@ -10,7 +10,7 @@
   [7] Website DetectTech
   [8] DDOS Attack
  
-# How To Install:
+# How To Download and Use:
 git clone https://github.com/mostafa-vn/BlindOul.git
 
 cd BlindOul
